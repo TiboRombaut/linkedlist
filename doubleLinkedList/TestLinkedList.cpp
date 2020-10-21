@@ -57,10 +57,10 @@ void TestList( )
 		TestInsertAfter( testList, refList, 20 );
 		
 		// TODO: 5. Define PopFront and uncomment next line
-		//TestPopFront( testList, refList );
+		TestPopFront( testList, refList );
 
 		// TODO: 6. Define Remove and uncomment next line
-		//TestRemove( testList, refList, 20 );
+		TestRemove( testList, refList, 20 );
 			
 		// TODO: 7. Define copy constructor and copy assignment operator and uncomment next line
 		//TestCopy( testList, refList );
